@@ -1,3 +1,3 @@
-# Speech--Emotion-Recognition
+# Speech Emotion Recognition
 
-Source Code present in Speech_Emotion_Recognition.ipynb file
+Implementatio of speech emotion classifier system using deep neural network.
